@@ -1,0 +1,6 @@
+G:\Working Project\Running Project\Project Running\Design Pattern\Abstract Factory\EMI\EMI\bin\Debug\EMI.exe.config
+G:\Working Project\Running Project\Project Running\Design Pattern\Abstract Factory\EMI\EMI\bin\Debug\EMI.exe
+G:\Working Project\Running Project\Project Running\Design Pattern\Abstract Factory\EMI\EMI\bin\Debug\EMI.pdb
+G:\Working Project\Running Project\Project Running\Design Pattern\Abstract Factory\EMI\EMI\obj\Debug\EMI.csprojResolveAssemblyReference.cache
+G:\Working Project\Running Project\Project Running\Design Pattern\Abstract Factory\EMI\EMI\obj\Debug\EMI.exe
+G:\Working Project\Running Project\Project Running\Design Pattern\Abstract Factory\EMI\EMI\obj\Debug\EMI.pdb
